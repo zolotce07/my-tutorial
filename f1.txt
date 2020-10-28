@@ -1,2 +1,2 @@
-This is my file f1
-New line
+This is my file f1.txt \n
+
