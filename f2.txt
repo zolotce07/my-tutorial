@@ -1,4 +1,6 @@
 This is my file f2.txt
 Added one more line
 One more line.
-
+master: line in f2.
+gitpro: line in f2.
+master: rebase in master
